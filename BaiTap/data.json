@@ -1,0 +1,26 @@
+[
+  {
+    "ID": "SV001",
+    "LastName": "Nguyen",
+    "FirstName": "An",
+    "Sex": true,
+    "Birth": "2003-09-16T00:00:00",
+    "Class": "CTK43",
+    "PresidentID": "PR001",
+    "PhoneNum": "0912345678",
+    "Address": "Lam Dong",
+    "Selec": ["Math", "Physics"]
+  },
+  {
+    "ID": "SV002",
+    "LastName": "Tran",
+    "FirstName": "Binh",
+    "Sex": false,
+    "Birth": "2002-12-20T00:00:00",
+    "Class": "CTK43",
+    "PresidentID": "PR002",
+    "PhoneNum": "0987654321",
+    "Address": "Ha Noi",
+    "Selec": ["Chemistry"]
+  }
+]
